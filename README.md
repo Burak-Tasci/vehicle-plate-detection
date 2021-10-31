@@ -12,4 +12,4 @@ I combined these two datasets, you can reach it below:<br>
 I wrote 2 different commands to preparing environment with conda and pip<br>
 - `conda env update -n [ENVIRONMENT_NAME] --file vplate.yaml`
 - `pip install -r requirements.txt`
-PS: I recommend to use pip, because detecto has better compatibility in pip version.
+<br>PS: I recommend to use pip, because detecto has better compatibility in pip version.
