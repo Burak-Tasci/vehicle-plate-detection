@@ -1,0 +1,4 @@
+detecto==1.2.1
+matplotlib==3.2.2
+Pillow==7.1.2
+glob
