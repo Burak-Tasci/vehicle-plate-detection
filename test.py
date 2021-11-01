@@ -32,7 +32,7 @@ def threshold(labels, boxes, scores, threshold=0.75):
 
 
 
-model = Model.load('model.pth', ['licence'])
+model = Model.load('licence-model.pth', ['licence'])
 
 for test in glob.glob("./test/*.png") + \
             glob.glob("./test/*.jpg") + \
