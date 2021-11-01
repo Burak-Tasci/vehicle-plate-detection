@@ -14,3 +14,7 @@ I wrote 2 different commands to preparing environment with conda and pip<br>
 - `pip install -r requirements.txt`
 <br>
 PS: I recommend to use pip, because detecto has better compatibility in pip version.
+
+## Trained Model Link
+
+https://drive.google.com/file/d/1WVJ_dsd857GyzZwT3xYs1hrhs29lKYPi/view?usp=sharing
