@@ -34,7 +34,7 @@ model.fit(train_ds,
           val_dataset=val_ds,
           epochs=5)
 
-model.save('model.pth')
+model.save('licence-model.pth')
 
 
 
